@@ -1,0 +1,146 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=queuedDisposition)(B9=X-Identity-Key)(BA=keywords)
+  (BB=useServerRetention)(BC=retainBy)(BD=daysToKeepHdrs)
+  (BE=numHdrsToKeep)(BF=daysToKeepBodies)(C0=useServerDefaults)
+  (C1=cleanupBodies)(C2=applyToFlaggedMessages)(C3=sortType)
+  (C4=sortOrder)(C5=viewFlags)(C6=viewType)(C7=columnStates)(C8=MRUTime)
+  (C9=sortColumns)(CA=customSortCol)(CB=imageSize)(CC=recipient_names)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=numLines)(8C=ccList)(8D=bccList)(8E=msgThreadId)
+  (8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)(92=children)
+  (93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=folderName)(AF=indexingPriority)
+  (B0=storeToken)(B1=dateReceived)(B2=ProtoThreadFlags)(B3=gloda-id)
+  (B4=gloda-dirty)(B5=junkscore)(B6=pseudoHdr)(B7=origURIs)>
+<(13D=16)(81=0)>[16:m(^9B=16)(^8F=16)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(143=17)(142=648c5ce0)(80=1)>[17:m(^9B=17)(^8F=17)(^91^142)(^90=0)
+    (^92=1)(^93=1)]
+<(151=18)>[18:m(^9B=18)(^8F=18)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(97=2)(96=646aec44)>[2:m(^9B=2)(^8F=2)(^91^96)(^90=0)(^92=1)(^93=1)]
+<(158=19)>[19:m(^9B=19)(^8F=19)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(161=1a)(15E=65115396)>[1A:m(^9B=1a)(^8F=1a)(^91^15E)(^90=0)(^92=1)
+    (^93=1)]
+<(167=1b)(165=651154c2)>[1B:m(^9B=1b)(^8F=1b)(^91^165)(^90=0)(^92=1)
+    (^93=1)]
+
+<(8E=de0)(95=3552)(85=Namya Jha <namya.jha@neosoftmail.com>)(86
+    =namyaj.170497@gmail.com)(87
+    =Fwd: Topic: NeoCAP ( Customer Alignment Program \),Time: 11:30 18th and 1\
+9th May 2023)(88=6699f128-4cb5-0b03-b6f7-8d584eaf04a6@neosoftmail.com)
+  (89=<76fb094a-8e5f-8547-7463-74ce39c4959b@neosoftmail.com>)(8A=dde)
+  (8B=53)(8C=ffffffff)(8F
+    =mailbox-message://namya.jha%40neosoftmail.com@mail.neosoftmail.com/Inbox#\
+9)(90=forwarded)(91=id1)(92=2a)(C2=0|namyaj.170497@gmail.com)(13E=96ab)
+  (141=38571)(DC=Report of Soft Skill training)(DD
+    =d411dc5f-8ff0-f42e-ebb0-b6dd3d5e2651@neosoftmail.com)(C7=UTF-8)
+  (13C=84d)(12F=2d)(E3=6c)(148=0|)(15A=a6ff)(15D=42751)(14A
+    =dhawal.parmar@neosoftmail.com)(14B=Shweta.sawant@neosofttech.com)
+  (14C=Reporting from Noida Location)(14D
+    =c2c1d3af-aae7-05c4-7676-91b9b2e916d6@neosoftmail.com)(15F=4f8)
+  (160=f)(153=12a)(162=abf9)(164=44025)(166=5b8)>
+{1:^80 {(k^96:c)(s=9)} 
+  [2(^9C^8E)(^B0^95)(^88=0)(^8A=0)(^82^85)(^85^86)(^81^87)(^83^88)(^84^89)
+    (^B1^96)(^86^96)(^89=1)(^87^8A)(^8B=53)(^9A^8C)(^8E=2)(^B2=0)(^B7^8F)
+    (^B8^90)(^B9^91)(^B3=2a)(^CC^C2)]
+  [17(^9C^13E)(^B0^141)(^88=0)(^8A=0)(^82^85)(^81^DC)(^83^DD)(^B1^142)
+    (^86^142)(^89=1)(^95^C7)(^87=84d)(^8B=2d)(^9A^8C)(^8E=17)(^B2=0)
+    (^B9^91)(^B3=6c)(^CC=0|)]
+  [1A(^9C^15A)(^B0^15D)(^88=0)(^8A=0)(^82^85)(^85^14A)(^8C^14B)(^81^14C)
+    (^83^14D)(^B1^15E)(^86^15E)(^89=1)(^95^C7)(^87=4f8)(^8B=f)(^9A^8C)
+    (^8E=1a)(^B2=0)(^B9^91)(^B3=12a)]
+  [1B(^9C^162)(^B0^164)(^88=0)(^8A=0)(^82^85)(^85^14A)(^8C^14B)(^81^14C)
+    (^83^14D)(^B1^165)(^86^165)(^89=1)(^95^C7)(^87=5b8)(^8B=19)(^9A^8C)
+    (^8E=1b)(^B2=0)]}
+{17:^80 {(k^97:c)(s=9)17:m } 17 }
+{2:^80 {(k^97:c)(s=9)2:m } 2 }
+{1A:^80 {(k^97:c)(s=9)1A:m } 1A }
+{1B:^80 {(k^97:c)(s=9)1B:m } 1B }[16:^80]
+{FFFFFFFD:^99 {(k^98:c)(s=9)} 
+  [2(^94^87)]
+  [17(^94^DC)]
+  [1A(^94^14C)]
+  [1B(^94^14C)]}
+[16:^99(^94^DC)]
+
+<(82=404)(83=Drafts)(168=b1b3)(159=4)(163=90a2)(147=1687321374)(BE=12)
+  (C0=$121)(C1
+    ={"threadCol":{"visible":true},"attachmentCol":{"visible":true},"flaggedCo\
+l":{"visible":true},"subjectCol":{"visible":true},"unreadButtonColHeader":{"vi\
+sible":true},"senderCol":{"visible":false},"recipientCol":{"visible":false},"c\
+orrespondentCol":{"visible":true},"junkStatusCol":{"visible":true},"dateCol":{\
+"visible":true},"locationCol":{"visible":false}})>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^168)(^A4^165)(^A0=4)(^A1=4)
+    (^A5=1b)(^BB=1)(^A3^163)(^C8^147)(^C3=12)(^C4=1)(^C5=1)(^C6=0)(^C9^C0)
+    (^C7^C1)]}
+
+@$${80{@
+[1B:^80(^B9^91)]
+@$$}80}@
+
+@$${81{@
+[-1A:m(^9B=1a)(^8F=1a)(^91=0)(^90=0)(^92=0)(^93=0)]
+{1:^80 {(k^96:c)(s=9)} -
+  [-1A]}
+{-1A:^80 {(k^97:c)(s=9)1A:m } }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} -1A }
+<(E9=3)(169=959a)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^168)
+    (^A4^165)(^A0=3)(^A1=3)(^A5=1b)(^BB=1)(^A3^169)(^C8^147)(^C3=12)
+    (^C4=1)(^C5=1)(^C6=0)(^C9^C0)(^C7^C1)]
+@$$}81}@
+
+@$${82{@
+@$$}82}@
+
+@$${83{@
+[1B:^80(^B3=12a)]
+@$$}83}@
+
+@$${84{@
+<(16A=651154c8)>[1:^9E(^A4^16A)]
+@$$}84}@
+
+@$${85{@
+[-1B:m(^9B=1b)(^8F=1b)(^91=0)(^90=0)(^92=0)(^93=0)]
+{-1:^80 {(k^96:c)(s=9)} 2 17 }
+{-1B:^80 {(k^97:c)(s=9)1B:m } }[-1B:^80]
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} 2 17 }
+<(16B=9b52)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^88^82)(^A6^83)(^A2^168)(^A4^16A)
+    (^A0=2)(^A1=2)(^A5=1b)(^BB=1)(^A3^16B)(^C8^147)(^C3=12)(^C4=1)(^C5=1)
+    (^C6=0)(^C9^C0)(^C7^C1)]
+@$$}85}@
+
+@$${87{@
+<(16C=1695702941)>[1:^9E(^C8^16C)]
+@$$}87}@
+
+@$${88{@
+@$$}88}@
+
+@$${8A{@
+<(16D=1695703038)>[1:^9E(^C8^16D)]
+@$$}8A}@
+
+@$${8B{@
+@$$}8B}@
+
+@$${8D{@
+<(16E=1702537185)>[1:^9E(^C8^16E)]
+@$$}8D}@
+
+@$${8E{@
+<(170=1|)>[17:^80(^CC=1|)]
+<(16F=1|namyaj.170497@gmail.com)>
+[2:^80(^CC^16F)]
+@$$}8E}@

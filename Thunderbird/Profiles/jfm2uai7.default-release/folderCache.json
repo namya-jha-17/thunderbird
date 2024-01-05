@@ -1,0 +1,109 @@
+{
+	"C:\\Users\\Dell\\AppData\\Roaming\\Thunderbird\\Profiles\\jfm2uai7.default-release\\Mail\\Local Folders" : 
+	{
+		"expungedBytes" : 0,
+		"flags" : 28,
+		"folderName" : "Local Folders",
+		"folderSize" : -1,
+		"pendingMsgs" : 0,
+		"pendingUnreadMsgs" : 0,
+		"totalMsgs" : -1,
+		"totalUnreadMsgs" : -1
+	},
+	"C:\\Users\\Dell\\AppData\\Roaming\\Thunderbird\\Profiles\\jfm2uai7.default-release\\Mail\\Local Folders\\Trash.msf" : 
+	{
+		"MRUTime" : "1700567866",
+		"expungedBytes" : 0,
+		"flags" : 260,
+		"folderName" : "Trash",
+		"folderSize" : 0,
+		"indexingPriority" : "",
+		"pendingMsgs" : 0,
+		"pendingUnreadMsgs" : 0,
+		"totalMsgs" : 0,
+		"totalUnreadMsgs" : 0,
+		"useServerRetention" : "1"
+	},
+	"C:\\Users\\Dell\\AppData\\Roaming\\Thunderbird\\Profiles\\jfm2uai7.default-release\\Mail\\Local Folders\\Unsent Messages.msf" : 
+	{
+		"expungedBytes" : 0,
+		"flags" : 2052,
+		"folderName" : "Outbox",
+		"folderSize" : 0,
+		"indexingPriority" : "",
+		"pendingMsgs" : 0,
+		"pendingUnreadMsgs" : 0,
+		"totalMsgs" : 0,
+		"totalUnreadMsgs" : 0,
+		"useServerRetention" : "1"
+	},
+	"C:\\Users\\Dell\\AppData\\Roaming\\Thunderbird\\Profiles\\jfm2uai7.default-release\\Mail\\mail.neosoftmail.com" : 
+	{
+		"expungedBytes" : 0,
+		"flags" : 28,
+		"folderName" : "namya.jha@neosoftmail.com",
+		"folderSize" : -1,
+		"pendingMsgs" : 0,
+		"pendingUnreadMsgs" : 0,
+		"totalMsgs" : -1,
+		"totalUnreadMsgs" : -1
+	},
+	"C:\\Users\\Dell\\AppData\\Roaming\\Thunderbird\\Profiles\\jfm2uai7.default-release\\Mail\\mail.neosoftmail.com\\Drafts.msf" : 
+	{
+		"MRUTime" : "1702537185",
+		"expungedBytes" : 39762,
+		"flags" : 1028,
+		"folderName" : "Drafts",
+		"folderSize" : 45491,
+		"indexingPriority" : "",
+		"pendingMsgs" : 0,
+		"pendingUnreadMsgs" : 0,
+		"totalMsgs" : 2,
+		"totalUnreadMsgs" : 2,
+		"useServerRetention" : "1"
+	},
+	"C:\\Users\\Dell\\AppData\\Roaming\\Thunderbird\\Profiles\\jfm2uai7.default-release\\Mail\\mail.neosoftmail.com\\Inbox.msf" : 
+	{
+		"MRUTime" : "1704432992",
+		"dobayes.mailnews@mozilla.org#junk" : "",
+		"dobayes.mailnews@mozilla.org#junk.empty" : "",
+		"expungedBytes" : 0,
+		"flags" : 2147487748,
+		"folderName" : "Inbox",
+		"folderSize" : 25897736,
+		"indexingPriority" : "",
+		"pendingMsgs" : 0,
+		"pendingUnreadMsgs" : 0,
+		"totalMsgs" : 409,
+		"totalUnreadMsgs" : 283,
+		"useServerRetention" : "1"
+	},
+	"C:\\Users\\Dell\\AppData\\Roaming\\Thunderbird\\Profiles\\jfm2uai7.default-release\\Mail\\mail.neosoftmail.com\\Sent.msf" : 
+	{
+		"MRUTime" : "1695704405",
+		"expungedBytes" : 0,
+		"flags" : 516,
+		"folderName" : "Sent",
+		"folderSize" : 8258,
+		"indexingPriority" : "",
+		"pendingMsgs" : 0,
+		"pendingUnreadMsgs" : 0,
+		"totalMsgs" : 5,
+		"totalUnreadMsgs" : 0,
+		"useServerRetention" : "1"
+	},
+	"C:\\Users\\Dell\\AppData\\Roaming\\Thunderbird\\Profiles\\jfm2uai7.default-release\\Mail\\mail.neosoftmail.com\\Trash.msf" : 
+	{
+		"MRUTime" : "1695702943",
+		"expungedBytes" : 0,
+		"flags" : 260,
+		"folderName" : "Trash",
+		"folderSize" : 0,
+		"indexingPriority" : "",
+		"pendingMsgs" : 0,
+		"pendingUnreadMsgs" : 0,
+		"totalMsgs" : 0,
+		"totalUnreadMsgs" : 0,
+		"useServerRetention" : "1"
+	}
+}
